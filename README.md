@@ -1,1 +1,1 @@
-kalkulyator.html
+index.html
